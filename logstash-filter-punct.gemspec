@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name            = 'logstash-filter-punct'
-  s.version         = '0.1.0'
+  s.version         = '0.1.1'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = "Strip everything but punctuation from a field and store the remainder in a separate field. This is often used for fingerprinting log events."
   s.description     = "Strip everything but punctuation from a field and store the remainder in a separate field. This is often used for fingerprinting log events."
